@@ -19,10 +19,10 @@
           <a
             {href}
             target="_blank"
-            class="flex rounded-lg items-center p-2 border-2 border-purple-200 hover:border-purple-400 hover:no-underline"
+            class="flex rounded-lg items-center p-2 border-2 border-purple-200 hover:border-purple-400 hover:no-underline transition-all"
           >
             <img src="/googleplay.svg" alt="PlayStore icon" class="w-4 h-4" />
-            <span class="ml-2 text-sm mr-2 text-gray-800">Download</span>
+            <span class="ml-2 text-sm mr-2 text-gray-800">Unduh</span>
           </a>
         </div>
       </div>
