@@ -24,8 +24,6 @@
       description: `<span class="font-bold text-green-700">You NU</span> adalah aplikasi
               Android milik koperasi Muslimat NU yang melayani transaksi jual beli online anggota
               koperasi di Jawa Timur dan pengelolaan aktivitas koperasi lainnya.`,
-      href:
-        "https://play.google.com/store/apps/details?id=com.komplit.ecomm.jatim",
     },
     {
       name: "Koins",
